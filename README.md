@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rupakragu06&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/rupakragu06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupakragu06)
-[![Email](https://img.shields.io/badge/Email-rupakragu0606%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:rupakragu0606@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rupakragu06%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:rupakragu06@gmail.com)
 
 </div>
 
@@ -96,7 +96,7 @@ const rupak = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rupakragu0606&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/rupakragu0606)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rupakragu06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/rupakragu06)
 
 </div>
 
@@ -106,7 +106,7 @@ const rupak = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupakragu0606&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rupakragu0606)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupakragu06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rupakragu06)
 
 </div>
 
@@ -116,7 +116,7 @@ const rupak = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rupakragu0606&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/rupakragu0606)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rupakragu06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/rupakragu06)
 
 </div>
 
@@ -160,7 +160,7 @@ const rupak = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**Fleet Accounting & Management System**](https://github.com/rupakragu0606) | `JavaScript` `Firebase` `HTML5/CSS3` `REST API` | • Dual-ledger system for Owner & Driver accounts 📊<br>• Real-time cloud sync via Firebase REST APIs with offline-first fallback<br>• Automated surplus calculations, mileage reconciliation & settlement logs<br>• Responsive dashboard with intelligent expense categorisation |
+| [**Fleet Accounting & Management System**](https://github.com/rupakragu06) | `JavaScript` `Firebase` `HTML5/CSS3` `REST API` | • Dual-ledger system for Owner & Driver accounts 📊<br>• Real-time cloud sync via Firebase REST APIs with offline-first fallback<br>• Automated surplus calculations, mileage reconciliation & settlement logs<br>• Responsive dashboard with intelligent expense categorisation |
 
 </div>
 
@@ -210,8 +210,8 @@ const rupak = {
 
 *"The best systems are invisible — they just work."* 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupak%20R.-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupakragu0606)
-[![Email](https://img.shields.io/badge/Email-rupakragu0606%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:rupakragu0606@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupak%20R.-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupakragu06)
+[![Email](https://img.shields.io/badge/Email-rupakragu06%40gmail.com-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:rupakragu06@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Madurai%2C%20Tamil%20Nadu-38bdae?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Madurai,Tamil+Nadu)
 
 </div>
